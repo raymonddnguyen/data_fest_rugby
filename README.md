@@ -1,1 +1,4 @@
-# data_fest_rugby
+# Chapman DataFest 2019 Team DeepData
+
+## Data Overview
+
